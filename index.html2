@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birthday🎂🎉💕</title>
+</head>
+<style>
+	body {
+		background-color: rgb(228, 176, 224);
+		font-family: Arial, sans-serif;
+		text-align: center;
+		padding-top: 50px;
+
+	}
+	h1 {
+		margin-bottom: 20px;
+		color: rgb(149, 55, 242);
+		h1 {
+    color: #ff6f61;
+    font-size: 36px;
+}
+
+	}
+	h2 {
+		color: rgb(148, 56, 201);
+	}
+	p {
+		margin: 15px 0;
+		font-size: 18px;
+		max-width: 500px;
+		margin: 15px auto;
+		color: rgb(4, 24, 101);
+	}
+	<style>
+    button {
+        padding: 12px 25px;
+        font-size: 16px;
+        background-color: #ff6f61;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #ff4c3b;
+    }
+	/* Animation */
+        details[open] p {
+            animation: fadeIn 1s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        img {
+            margin: 20px 0;
+		}
+		body {
+    background: linear-gradient(135deg, #ffe4e1, #fff1c1);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+	
+
+</style>
+<script>
+    function showMessage() {
+        document.getElementById("msg").style.display = "block";
+    }
+</script>
+
+<body>
+	<div class="card">
+
+	<h1>Happy Birthday🎂🎉💕 </h1>
+	<h2>Dear My Friend</h2>
+
+<p>🎉   
+    May your life be filled with joy, success, and smiles always!! 💖</p>
+
+	<button onclick="showMessage()">Click for a Surprise 🎁</button>
+
+	<p id="msg" style="display:none; font-size:18px; margin-top:20px;">
+    🎂 Happy Birthday 💕<br><br>
+	You are one of those people who just make everything feel easier and happier.<br><br>
+    May your life be filled with love, peace, laughter,  
+    and dreams that slowly turn into reality ✨<br><br>
+    Stay the beautiful soul you are 💖
+	May your day filled with love, laughter, and unforgettable moments! 🎈🎉
+
+	<p id="celebrate" style="display:none; font-size:30px; margin-top:15px;">
+    🎉 🎊 🎂 💐 🎁 💖
+
+
+<script>
+    function showMessage() {
+        document.getElementById("msg").style.display = "block";
+    }
+</script>
+
+
+    
+</div>
+
+</body>
+</html>
